@@ -1,4 +1,4 @@
-![orange white logo](assets/gift_wrap_icon.png "Code Gift Box Wrapper")
+<img src="assets/gift_wrap_icon.png" alt="orange white logo" width="150"/>
 
 # Eliminate Code Cloning
 
